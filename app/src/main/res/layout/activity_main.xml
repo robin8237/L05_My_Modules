@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/tvMod1"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:textSize="20sp"
+        android:text="@string/mod1" />
+
+    <TextView
+        android:id="@+id/tvMod2"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:textSize="20sp"
+        android:text="@string/mod2" />
+
+    <TextView
+        android:id="@+id/tvMod3"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:textSize="20sp"
+        android:text="@string/mod3" />
+
+    <TextView
+        android:id="@+id/tvMod4"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:textSize="20sp"
+        android:text="@string/mod4" />
+
+    <TextView
+        android:id="@+id/tvMod5"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:textSize="20sp"
+        android:text="@string/mod5" />
+</LinearLayout>

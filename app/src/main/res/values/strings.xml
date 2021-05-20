@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="mod1">C346 Mobile App Development</string>
+    <string name="mod2">C206 Software Development Process</string>
+    <string name="mod3">C235 IT Security and Management</string>
+    <string name="mod4">C203 Web Appln Development in php</string>
+    <string name="mod5">C218 UI/UX Design for Apps</string>
+    <string name="code1">C346</string>
+    <string name="code2">C206</string>
+    <string name="code3">C235</string>
+    <string name="code4">C203</string>
+    <string name="code5">C218</string>
+    <string name="name1">Mobile App Development</string>
+    <string name="name2">Software Development Process</string>
+    <string name="name3">IT Security and Management</string>
+    <string name="name4">Web Appln Development in php</string>
+    <string name="name5">UI/UX Design for Apps</string>
+    <string name="year">2020</string>
+    <string name="sem">1</string>
+    <string name="credit">4</string>
+    <string name="venue1">E62E</string>
+    <string name="venue234">W67M</string>
+    <string name="venue5">W64G</string>
+</resources>
